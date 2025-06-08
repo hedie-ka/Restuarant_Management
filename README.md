@@ -1,4 +1,4 @@
-Food Ordering System (Java OOP Project)
+# Food Ordering System (Java OOP Project)
 
 The application features a terminal-based user interface (CLI) for interacting with users.
 

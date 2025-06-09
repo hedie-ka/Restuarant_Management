@@ -1,0 +1,3 @@
+french_frise 35000 AVAILABLE
+special_french_frise 40000 AVAILABLE
+white_frise 45000 AVAILABLE

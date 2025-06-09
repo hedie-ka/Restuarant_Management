@@ -1,0 +1,7 @@
+iced_latte 44000 AVAILABLE
+iced_mocha 46000 AVAILABLE
+ice_cream 40000 AVAILABLE
+mohito 35000 AVAILABLE
+orange_juice 30000 AVAILABLE
+pineapple_juice 32000 AVAILABLE
+smoothie 40000 AVAILABLE

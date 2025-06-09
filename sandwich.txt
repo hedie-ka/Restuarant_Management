@@ -1,0 +1,7 @@
+cold_sandwich 32000 AVAILABLE
+hamburger 45000 AVAILABLE
+cheeseburger 55000 AVAILABLE
+zapata 60000 AVAILABLE
+chicken 70000 AVAILABLE
+vegetable_sandwich 35000 AVAILABLE
+chicken 70000 UNAVAILABLE

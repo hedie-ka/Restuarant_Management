@@ -1,0 +1,3 @@
+chocolate_cake 25000 AVAILABLE
+chese_cake 28000 AVAILABLE
+cake_of_the_day 20000 AVAILABLE
